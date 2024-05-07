@@ -10,7 +10,7 @@ I'm C# developer
     </a>
 </div>
 
-## My Stack:
+<!--## My Stack:
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width=50 height=50 title=".NET" />
@@ -19,7 +19,7 @@ I'm C# developer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50 height=50 title="Python"/>
     <img src="https://github.com/ClosedXML/ClosedXML/blob/develop/resources/logo/logotype-a-05.svg" width=100 height=50 title="ClosedXML"/>
 </div>
-
+-->
 ## My Stats
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madvicspar&theme=github" />
