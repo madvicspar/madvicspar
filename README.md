@@ -23,7 +23,7 @@ I'm C# developer
 ### My Stats
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madvicspar&theme=github" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=madvicspar&theme=github&background=000000)](https://git.io/streak-stats)"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=madvicspar&theme=whatsapp-light2&background=000000)](https://git.io/streak-stats)"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madvicspar&theme=github" />
 </div>
 
