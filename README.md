@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Vika
+## Hi there 👋 My name is Vika
 
 I'm C# developer
 
@@ -20,7 +20,7 @@ I'm C# developer
     <img src="https://github.com/ClosedXML/ClosedXML/blob/develop/resources/logo/logotype-a-05.svg" width=100 height=50 title="ClosedXML"/>
 </div>
 -->
-## My Stats
+### My Stats
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madvicspar&theme=github" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=madvicspar&theme=github&background=000000)](https://git.io/streak-stats)"/>
