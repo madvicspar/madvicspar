@@ -26,5 +26,3 @@ I'm C# developer
   <img src="http://github-readme-streak-stats.herokuapp.com?user=madvicspar&theme=github&background=000000)](https://git.io/streak-stats)"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madvicspar&theme=github" />
 </div>
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madvicspar&show_icons=true&theme=vision-friendly-dark)-->
