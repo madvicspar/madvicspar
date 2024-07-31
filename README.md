@@ -1,9 +1,5 @@
 ## Hi there 👋 My name is Vika
 
-I'm C# developer
-
-🌱 Currently specialize in developing desktop applications using WPF (MVVM)
-
 <div>
     <a href="https://t.me/madvicspar">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/madvicspar"/>
